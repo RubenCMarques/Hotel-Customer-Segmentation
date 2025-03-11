@@ -39,10 +39,10 @@ Hotel H, located in Lisbon, aims to move beyond traditional customer segmentatio
 ## Results
 The model identified four key customer segments:
 
-Established, Budget-Conscious Customers: Long-time customers with short stays and minimal spending.
-High-Spending, Advanced Planners: Customers with high revenue contributions and early bookings.
-Standard, Consistent Customers: Regular guests with predictable booking patterns.
-Older, High-Commitment Customers: Loyal guests with long-term booking habits.
+- **Established, Budget-Conscious Customers**: Long-time customers with short stays and minimal spending.
+- **High-Spending, Advanced Planners**: Customers with high revenue contributions and early bookings.
+- **Standard, Consistent Customers**: Regular guests with predictable booking patterns.
+- **Older, High-Commitment Customers**: Loyal guests with long-term booking habits.
 
 ## Deployment and Maintenance
 A multidisciplinary team is required to maintain the model, including data scientists, engineers, and marketing specialists. Continuous monitoring ensures segment relevance and adaptation to market trends.
